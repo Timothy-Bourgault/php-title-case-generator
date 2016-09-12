@@ -6,7 +6,7 @@
 
 ## Description
 
-_This program will take in input of varying case and_
+_This program will take in input of varying case and change it to Title Case._
 
 ## Specifications
 
